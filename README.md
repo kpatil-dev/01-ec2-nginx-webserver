@@ -66,5 +66,3 @@ terraform destroy
 - Bash scripting
 - Terraform outputs
 
-## Author
-AWS and Terraform Learning Projects
